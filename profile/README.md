@@ -14,6 +14,8 @@
 ## 推理
 - vLLM-Ascend Step3.5 Flash适配
   - 已验证可运行代码分支：[step3p5-mtp3-v0.17.0rc1](https://github.com/Ascend-ShangHai-LLM/vllm-ascend/tree/step3p5-mtp3-v0.17.0rc1)
+  - 环境准备和服务化部署，参考[PR#1](https://github.com/Ascend-ShangHai-LLM/vllm-ascend/pull/1)
+
 - Xtuner + vLLM-Ascend Qwen3.5 RL适配
   - Xtuner [xtuner_rl_0418_base](https://github.com/Ascend-ShangHai-LLM/xtuner/tree/xtuner_rl_0418_base)
   - vLLM [xtuner-rl-0.18.0](https://github.com/Ascend-ShangHai-LLM/vllm/tree/xtuner-rl-0.18.0)
