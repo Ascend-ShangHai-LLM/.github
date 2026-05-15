@@ -9,7 +9,9 @@
 
 ---
 ## 训练
-- Intern S2 35B Xtuner SFT微调代码分支 [interns2_35b](https://github.com/Ascend-ShangHai-LLM/xtuner/tree/interns2_35b)
+- XTuner SFT Ascend适配
+  - InternS2 preview 代码分支 [s2_preview](https://github.com/Ascend-ShangHai-LLM/xtuner/tree/s2_preview)
+  - Qwen3.5 35B 代码分支 [interns2_35b](https://github.com/Ascend-ShangHai-LLM/xtuner/tree/interns2_35b)
 ---
 ## 推理
 - vLLM-Ascend Step3.5 Flash适配
